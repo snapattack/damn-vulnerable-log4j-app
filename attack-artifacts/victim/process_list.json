@@ -1,0 +1,1262 @@
+[
+    {
+        "ParentProcessId":  0,
+        "ProcessId":  0,
+        "ProcessName":  "System Idle Process",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "System Idle Process",
+        "CreationDate":  "2021-12-15T02:33:13.965965Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  0,
+        "ProcessId":  4,
+        "ProcessName":  "System",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "System",
+        "CreationDate":  "2021-12-15T02:33:13.965965Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  4,
+        "ProcessId":  40,
+        "ProcessName":  "Secure System",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "Secure System",
+        "CreationDate":  "2021-12-15T02:33:11.501477Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  4,
+        "ProcessId":  76,
+        "ProcessName":  "Registry",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "Registry",
+        "CreationDate":  "2021-12-15T02:33:11.529130Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  4,
+        "ProcessId":  388,
+        "ProcessName":  "smss.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "smss.exe",
+        "CreationDate":  "2021-12-15T02:33:13.969433Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  512,
+        "ProcessId":  524,
+        "ProcessName":  "csrss.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "csrss.exe",
+        "CreationDate":  "2021-12-15T02:33:17.192047Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  512,
+        "ProcessId":  592,
+        "ProcessName":  "wininit.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "wininit.exe",
+        "CreationDate":  "2021-12-15T02:33:17.261054Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  584,
+        "ProcessId":  600,
+        "ProcessName":  "csrss.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "csrss.exe",
+        "CreationDate":  "2021-12-15T02:33:17.270747Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  584,
+        "ProcessId":  676,
+        "ProcessName":  "winlogon.exe",
+        "Path":  "C:\\Windows\\system32\\winlogon.exe",
+        "CommandLine":  "winlogon.exe",
+        "Description":  "winlogon.exe",
+        "CreationDate":  "2021-12-15T02:33:17.338962Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  592,
+        "ProcessId":  684,
+        "ProcessName":  "services.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "services.exe",
+        "CreationDate":  "2021-12-15T02:33:17.343170Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  592,
+        "ProcessId":  692,
+        "ProcessName":  "LsaIso.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "LsaIso.exe",
+        "CreationDate":  "2021-12-15T02:33:17.367586Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  592,
+        "ProcessId":  700,
+        "ProcessName":  "lsass.exe",
+        "Path":  "C:\\Windows\\system32\\lsass.exe",
+        "CommandLine":  "C:\\Windows\\system32\\lsass.exe",
+        "Description":  "lsass.exe",
+        "CreationDate":  "2021-12-15T02:33:17.373332Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  816,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k DcomLaunch -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:17.873061Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  592,
+        "ProcessId":  828,
+        "ProcessName":  "fontdrvhost.exe",
+        "Path":  "C:\\Windows\\system32\\fontdrvhost.exe",
+        "CommandLine":  "\"fontdrvhost.exe\"",
+        "Description":  "fontdrvhost.exe",
+        "CreationDate":  "2021-12-15T02:33:17.906763Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  676,
+        "ProcessId":  836,
+        "ProcessName":  "fontdrvhost.exe",
+        "Path":  "C:\\Windows\\system32\\fontdrvhost.exe",
+        "CommandLine":  "\"fontdrvhost.exe\"",
+        "Description":  "fontdrvhost.exe",
+        "CreationDate":  "2021-12-15T02:33:17.907296Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  916,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k RPCSS -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:18.478399Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  676,
+        "ProcessId":  1004,
+        "ProcessName":  "LogonUI.exe",
+        "Path":  "C:\\Windows\\system32\\LogonUI.exe",
+        "CommandLine":  "\"LogonUI.exe\" /flags:0x2 /state0:0xa3bd2855 /state1:0x41c64e6d",
+        "Description":  "LogonUI.exe",
+        "CreationDate":  "2021-12-15T02:33:18.686985Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  676,
+        "ProcessId":  1012,
+        "ProcessName":  "dwm.exe",
+        "Path":  "C:\\Windows\\system32\\dwm.exe",
+        "CommandLine":  "\"dwm.exe\"",
+        "Description":  "dwm.exe",
+        "CreationDate":  "2021-12-15T02:33:18.693737Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  412,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k NetworkService",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:19.104276Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  528,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:19.166168Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  472,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k LocalSystemNetworkRestricted -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:19.194087Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  8,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k ICService -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:19.440658Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1048,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k LocalService -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:19.569906Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1148,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k netsvcs -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:19.740325Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  4,
+        "ProcessId":  1288,
+        "ProcessName":  "Memory Compression",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "Memory Compression",
+        "CreationDate":  "2021-12-15T02:33:22.643189Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1384,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k NetworkService -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:22.765704Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1512,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:22.876029Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1552,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k netsvcs",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:23.037055Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1696,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:23.290161Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1704,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k LocalServiceNetworkRestricted -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:23.302276Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1844,
+        "ProcessName":  "spoolsv.exe",
+        "Path":  "C:\\Windows\\System32\\spoolsv.exe",
+        "CommandLine":  "C:\\Windows\\System32\\spoolsv.exe",
+        "Description":  "spoolsv.exe",
+        "CreationDate":  "2021-12-15T02:33:24.184635Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1872,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k LocalServiceNoNetworkFirewall -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:24.254962Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  1148,
+        "ProcessId":  2016,
+        "ProcessName":  "taskhostw.exe",
+        "Path":  "C:\\Windows\\system32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe ExploitGuardPolicy",
+        "Description":  "taskhostw.exe",
+        "CreationDate":  "2021-12-15T02:33:24.564253Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1220,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k LocalServiceNoNetwork -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:24.683545Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1268,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k LocalServiceAndNoImpersonation -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:24.752827Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1596,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k NetworkServiceNetworkRestricted -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:24.877768Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  2080,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k utcsvc -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:33:25.036180Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  2188,
+        "ProcessName":  "WaAppAgent.exe",
+        "Path":  "C:\\WindowsAzure\\GuestAgent_2.7.41491.1032_2021-12-01_150037\\WaAppAgent.exe",
+        "CommandLine":  "C:\\WindowsAzure\\GuestAgent_2.7.41491.1032_2021-12-01_150037\\WaAppAgent.exe",
+        "Description":  "WaAppAgent.exe",
+        "CreationDate":  "2021-12-15T02:33:25.198394Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  2196,
+        "ProcessName":  "Sysmon64.exe",
+        "Path":  "C:\\Windows\\sysmon64.exe",
+        "CommandLine":  "C:\\Windows\\sysmon64.exe",
+        "Description":  "Sysmon64.exe",
+        "CreationDate":  "2021-12-15T02:33:25.203327Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  2268,
+        "ProcessName":  "WindowsAzureGuestAgent.exe",
+        "Path":  "C:\\WindowsAzure\\GuestAgent_2.7.41491.1032_2021-12-01_150037\\GuestAgent\\WindowsAzureGuestAgent.exe",
+        "CommandLine":  "C:\\WindowsAzure\\GuestAgent_2.7.41491.1032_2021-12-01_150037\\GuestAgent\\WindowsAzureGuestAgent.exe",
+        "Description":  "WindowsAzureGuestAgent.exe",
+        "CreationDate":  "2021-12-15T02:33:25.288687Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  2092,
+        "ProcessName":  "unsecapp.exe",
+        "Path":  "C:\\Windows\\system32\\wbem\\unsecapp.exe",
+        "CommandLine":  "C:\\Windows\\system32\\wbem\\unsecapp.exe -Embedding",
+        "Description":  "unsecapp.exe",
+        "CreationDate":  "2021-12-15T02:33:37.565286Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  472,
+        "ProcessId":  3320,
+        "ProcessName":  "dasHost.exe",
+        "Path":  "C:\\Windows\\system32\\dashost.exe",
+        "CommandLine":  "dashost.exe {39a26f5d-7b49-4ad7-b4df4cbd7b23806f}",
+        "Description":  "dasHost.exe",
+        "CreationDate":  "2021-12-15T02:33:42.723048Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3492,
+        "ProcessId":  3524,
+        "ProcessName":  "csrss.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "csrss.exe",
+        "CreationDate":  "2021-12-15T02:34:44.326394Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3492,
+        "ProcessId":  344,
+        "ProcessName":  "winlogon.exe",
+        "Path":  "C:\\Windows\\system32\\winlogon.exe",
+        "CommandLine":  "winlogon.exe",
+        "Description":  "winlogon.exe",
+        "CreationDate":  "2021-12-15T02:34:44.350907Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  344,
+        "ProcessId":  1712,
+        "ProcessName":  "fontdrvhost.exe",
+        "Path":  "C:\\Windows\\system32\\fontdrvhost.exe",
+        "CommandLine":  "\"fontdrvhost.exe\"",
+        "Description":  "fontdrvhost.exe",
+        "CreationDate":  "2021-12-15T02:34:45.314883Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  344,
+        "ProcessId":  2808,
+        "ProcessName":  "dwm.exe",
+        "Path":  "C:\\Windows\\system32\\dwm.exe",
+        "CommandLine":  "\"dwm.exe\"",
+        "Description":  "dwm.exe",
+        "CreationDate":  "2021-12-15T02:34:45.520673Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  4676,
+        "ProcessName":  "SgrmBroker.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "SgrmBroker.exe",
+        "CreationDate":  "2021-12-15T02:35:38.857815Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  4560,
+        "ProcessId":  3948,
+        "ProcessName":  "GoogleCrashHandler.exe",
+        "Path":  "C:\\Program Files (x86)\\Google\\Update\\1.3.36.112\\GoogleCrashHandler.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Google\\Update\\1.3.36.112\\GoogleCrashHandler.exe\"",
+        "Description":  "GoogleCrashHandler.exe",
+        "CreationDate":  "2021-12-15T02:35:48.221359Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  4560,
+        "ProcessId":  4884,
+        "ProcessName":  "GoogleCrashHandler64.exe",
+        "Path":  "C:\\Program Files (x86)\\Google\\Update\\1.3.36.112\\GoogleCrashHandler64.exe",
+        "CommandLine":  "\"C:\\Program Files (x86)\\Google\\Update\\1.3.36.112\\GoogleCrashHandler64.exe\"",
+        "Description":  "GoogleCrashHandler64.exe",
+        "CreationDate":  "2021-12-15T02:35:54.236442Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  448,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k LocalService",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:36:04.190515Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  928,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k appmodel -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:36:04.198403Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  4524,
+        "ProcessName":  "svchost.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:36:06.754137Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  3880,
+        "ProcessName":  "SearchIndexer.exe",
+        "Path":  "C:\\Windows\\system32\\SearchIndexer.exe",
+        "CommandLine":  "C:\\Windows\\system32\\SearchIndexer.exe /Embedding",
+        "Description":  "SearchIndexer.exe",
+        "CreationDate":  "2021-12-15T02:36:06.931176Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  4144,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k LocalServiceNetworkRestricted",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:37:44.390106Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  412,
+        "ProcessId":  4260,
+        "ProcessName":  "rdpclip.exe",
+        "Path":  "C:\\Windows\\System32\\rdpclip.exe",
+        "CommandLine":  "rdpclip",
+        "Description":  "rdpclip.exe",
+        "CreationDate":  "2021-12-15T02:37:50.344611Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  1148,
+        "ProcessId":  4692,
+        "ProcessName":  "sihost.exe",
+        "Path":  "C:\\Windows\\system32\\sihost.exe",
+        "CommandLine":  "sihost.exe",
+        "Description":  "sihost.exe",
+        "CreationDate":  "2021-12-15T02:37:50.615394Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1864,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k UnistackSvcGroup",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:37:50.641049Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  1148,
+        "ProcessId":  3108,
+        "ProcessName":  "taskhostw.exe",
+        "Path":  "C:\\Windows\\system32\\taskhostw.exe",
+        "CommandLine":  "taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}",
+        "Description":  "taskhostw.exe",
+        "CreationDate":  "2021-12-15T02:37:51.104444Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  472,
+        "ProcessId":  4196,
+        "ProcessName":  "ctfmon.exe",
+        "Path":  "C:\\Windows\\system32\\ctfmon.exe",
+        "CommandLine":  "\"ctfmon.exe\"",
+        "Description":  "ctfmon.exe",
+        "CreationDate":  "2021-12-15T02:37:52.395187Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  4932,
+        "ProcessId":  3556,
+        "ProcessName":  "explorer.exe",
+        "Path":  "C:\\Windows\\Explorer.EXE",
+        "CommandLine":  "C:\\Windows\\Explorer.EXE",
+        "Description":  "explorer.exe",
+        "CreationDate":  "2021-12-15T02:37:55.240220Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  4636,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k ClipboardSvcGroup -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:37:57.323054Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5348,
+        "ProcessName":  "StartMenuExperienceHost.exe",
+        "Path":  "C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+        "CommandLine":  "\"C:\\Windows\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe\" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca",
+        "Description":  "StartMenuExperienceHost.exe",
+        "CreationDate":  "2021-12-15T02:38:02.646859Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5424,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T02:38:03.852830Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5532,
+        "ProcessName":  "SearchApp.exe",
+        "Path":  "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+        "CommandLine":  "\"C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\" -ServerName:CortanaUI.AppX8z9r6jm96hw4bsbneegw0kyxx296wr9t.mca",
+        "Description":  "SearchApp.exe",
+        "CreationDate":  "2021-12-15T02:38:04.672931Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5596,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T02:38:05.091953Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5868,
+        "ProcessName":  "YourPhone.exe",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.21111.123.0_x64__8wekyb3d8bbwe\\YourPhone.exe",
+        "CommandLine":  "\"C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.21111.123.0_x64__8wekyb3d8bbwe\\YourPhone.exe\" -ServerName:App.AppX9yct9q388jvt4h7y0gn06smzkxcsnt8m.mca",
+        "Description":  "YourPhone.exe",
+        "CreationDate":  "2021-12-15T02:38:06.921702Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  6064,
+        "ProcessName":  "TextInputHost.exe",
+        "Path":  "C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\InputApp\\TextInputHost.exe",
+        "CommandLine":  "\"C:\\Windows\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\InputApp\\TextInputHost.exe\" -ServerName:InputApp.AppX9jnwykgrccxc8by3hsrsh07r423xzvav.mca",
+        "Description":  "TextInputHost.exe",
+        "CreationDate":  "2021-12-15T02:38:12.447727Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  3912,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T02:38:15.490334Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3556,
+        "ProcessId":  6172,
+        "ProcessName":  "SecurityHealthSystray.exe",
+        "Path":  "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+        "CommandLine":  "\"C:\\Windows\\System32\\SecurityHealthSystray.exe\" ",
+        "Description":  "SecurityHealthSystray.exe",
+        "CreationDate":  "2021-12-15T02:38:18.497606Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  6200,
+        "ProcessName":  "SecurityHealthService.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "SecurityHealthService.exe",
+        "CreationDate":  "2021-12-15T02:38:18.678298Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3556,
+        "ProcessId":  6264,
+        "ProcessName":  "OneDrive.exe",
+        "Path":  "C:\\Users\\bob\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe",
+        "CommandLine":  "\"C:\\Users\\bob\\AppData\\Local\\Microsoft\\OneDrive\\OneDrive.exe\" /background",
+        "Description":  "OneDrive.exe",
+        "CreationDate":  "2021-12-15T02:38:18.955283Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  6744,
+        "ProcessName":  "Cortana.exe",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.549981C3F5F10_3.2110.13603.0_x64__8wekyb3d8bbwe\\Cortana.exe",
+        "CommandLine":  "\"C:\\Program Files\\WindowsApps\\Microsoft.549981C3F5F10_3.2110.13603.0_x64__8wekyb3d8bbwe\\Cortana.exe\" -ServerName:App.AppX2y379sjp88wjq1y80217mddj3fargf2y.mca",
+        "Description":  "Cortana.exe",
+        "CreationDate":  "2021-12-15T02:38:23.632085Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  6864,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T02:38:25.247405Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  6928,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k AarSvcGroup -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:38:26.240762Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  6864,
+        "ProcessId":  7032,
+        "ProcessName":  "Win32Bridge.Server.exe",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.549981C3F5F10_3.2110.13603.0_x64__8wekyb3d8bbwe\\Win32Bridge.Server.exe",
+        "CommandLine":  "\"C:\\Program Files\\WindowsApps\\Microsoft.549981C3F5F10_3.2110.13603.0_x64__8wekyb3d8bbwe\\Win32Bridge.Server.exe\" /InvokerPRAID: App",
+        "Description":  "Win32Bridge.Server.exe",
+        "CreationDate":  "2021-12-15T02:38:27.558347Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  7144,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k WbioSvcGroup",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T02:38:29.282124Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  4788,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T02:38:32.235870Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  2720,
+        "ProcessName":  "ShellExperienceHost.exe",
+        "Path":  "C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe",
+        "CommandLine":  "\"C:\\Windows\\SystemApps\\ShellExperienceHost_cw5n1h2txyewy\\ShellExperienceHost.exe\" -ServerName:App.AppXtk181tbxbce2qsex02s8tw7hfxa9xb3t.mca",
+        "Description":  "ShellExperienceHost.exe",
+        "CreationDate":  "2021-12-15T02:40:07.823396Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5460,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T02:40:08.324578Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  2744,
+        "ProcessName":  "UserOOBEBroker.exe",
+        "Path":  "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe -Embedding",
+        "Description":  "UserOOBEBroker.exe",
+        "CreationDate":  "2021-12-15T02:48:07.745999Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  3904,
+        "ProcessName":  "dllhost.exe",
+        "Path":  "C:\\Windows\\system32\\DllHost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\DllHost.exe /Processid:{973D20D7-562D-44B9-B70B-5A0F49CCDF3F}",
+        "Description":  "dllhost.exe",
+        "CreationDate":  "2021-12-15T02:50:26.401004Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  4952,
+        "ProcessName":  "ApplicationFrameHost.exe",
+        "Path":  "C:\\Windows\\system32\\ApplicationFrameHost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\ApplicationFrameHost.exe -Embedding",
+        "Description":  "ApplicationFrameHost.exe",
+        "CreationDate":  "2021-12-15T02:50:30.037718Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5660,
+        "ProcessName":  "Video.UI.exe",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.21111.10511.0_x64__8wekyb3d8bbwe\\Video.UI.exe",
+        "CommandLine":  "\"C:\\Program Files\\WindowsApps\\Microsoft.ZuneVideo_10.21111.10511.0_x64__8wekyb3d8bbwe\\Video.UI.exe\" -ServerName:Microsoft.ZuneVideo.AppX758ya5sqdjd98rx6z7g95nw6jy7bqx9y.mca",
+        "Description":  "Video.UI.exe",
+        "CreationDate":  "2021-12-15T03:07:54.812730Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  4792,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T03:08:06.371471Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  6584,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\System32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\svchost.exe -k netsvcs -p",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-15T03:13:05.436010Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3556,
+        "ProcessId":  3732,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" ",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-15T03:41:22.044769Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  1884,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=crashpad-handler \"--user-data-dir=C:\\Users\\bob\\AppData\\Local\\Google\\Chrome\\User Data\" /prefetch:7 --monitor-self-annotation=ptype=crashpad-handler \"--database=C:\\Users\\bob\\AppData\\Local\\Google\\Chrome\\User Data\\Crashpad\" \"--metrics-dir=C:\\Users\\bob\\AppData\\Local\\Google\\Chrome\\User Data\" --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=Win64 --annotation=prod=Chrome --annotation=ver=96.0.4664.93 --initial-client-data=0xf0,0xf4,0xf8,0xcc,0xfc,0x7ff86b5733e0,0x7ff86b5733f0,0x7ff86b573400",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-15T03:41:23.750903Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  4376,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=gpu-process --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --gpu-preferences=UAAAAAAAAADgAAAYAAAAAAAAAAAAAAAAAABgAIAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgAAAAAAAAASAAAAAAAAAAYAAAAAgAAABAAAAAAAAAAGAAAAAAAAAAQAAAAAAAAAAAAAAANAAAAEAAAAAAAAAABAAAADQAAAAgAAAAAAAAACAAAAAAAAAA= --mojo-platform-channel-handle=1648 /prefetch:2",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-15T03:41:24.648933Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  6836,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --lang=en-US --service-sandbox-type=none --mojo-platform-channel-handle=1996 /prefetch:8",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-15T03:41:24.782601Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  3624,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=utility --utility-sub-type=storage.mojom.StorageService --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --lang=en-US --service-sandbox-type=utility --mojo-platform-channel-handle=2084 /prefetch:8",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-15T03:41:24.906975Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  4516,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=19 --mojo-platform-channel-handle=5140 /prefetch:1",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-15T03:41:47.899790Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  8060,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --lang=en-US --service-sandbox-type=audio --mojo-platform-channel-handle=6472 /prefetch:8",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-15T15:57:13.410529Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3556,
+        "ProcessId":  3828,
+        "ProcessName":  "powershell.exe",
+        "Path":  "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "CommandLine":  "\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" ",
+        "Description":  "powershell.exe",
+        "CreationDate":  "2021-12-15T16:10:18.047395Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3828,
+        "ProcessId":  6684,
+        "ProcessName":  "conhost.exe",
+        "Path":  "C:\\Windows\\system32\\conhost.exe",
+        "CommandLine":  "\\??\\C:\\Windows\\system32\\conhost.exe 0x4",
+        "Description":  "conhost.exe",
+        "CreationDate":  "2021-12-15T16:10:18.339194Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  5560,
+        "ProcessName":  "Microsoft.Photos.exe",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\\Microsoft.Photos.exe",
+        "CommandLine":  "\"C:\\Program Files\\WindowsApps\\Microsoft.Windows.Photos_2021.21090.10008.0_x64__8wekyb3d8bbwe\\Microsoft.Photos.exe\" -ServerName:App.AppXzst44mncqdg84v7sv6p7yznqwssy6f7f.mca",
+        "Description":  "Microsoft.Photos.exe",
+        "CreationDate":  "2021-12-15T16:57:31.507737Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  6816,
+        "ProcessName":  "RuntimeBroker.exe",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\RuntimeBroker.exe -Embedding",
+        "Description":  "RuntimeBroker.exe",
+        "CreationDate":  "2021-12-15T16:57:33.237555Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  8364,
+        "ProcessName":  "MoUsoCoreWorker.exe",
+        "Path":  "C:\\Windows\\System32\\mousocoreworker.exe",
+        "CommandLine":  "C:\\Windows\\System32\\mousocoreworker.exe -Embedding",
+        "Description":  "MoUsoCoreWorker.exe",
+        "CreationDate":  "2021-12-15T20:33:25.931130Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  1928,
+        "ProcessName":  "SearchApp.exe",
+        "Path":  "C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe",
+        "CommandLine":  "\"C:\\Windows\\SystemApps\\Microsoft.Windows.Search_cw5n1h2txyewy\\SearchApp.exe\" -ServerName:ShellFeedsUI.AppX88fpyyrd21w8wqe62wzsjh5agex7tf1e.mca",
+        "Description":  "SearchApp.exe",
+        "CreationDate":  "2021-12-16T01:27:08.241126Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  8612,
+        "ProcessName":  "MsMpEng.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "MsMpEng.exe",
+        "CreationDate":  "2021-12-16T02:36:16.566429Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  320,
+        "ProcessName":  "SecHealthUI.exe",
+        "Path":  "C:\\Windows\\SystemApps\\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\\SecHealthUI.exe",
+        "CommandLine":  "\"C:\\Windows\\SystemApps\\Microsoft.Windows.SecHealthUI_cw5n1h2txyewy\\SecHealthUI.exe\" -ServerName:SecHealthUI.AppXep4x2tbtjws1v9qqs0rmb3hxykvkpqtn.mca",
+        "Description":  "SecHealthUI.exe",
+        "CreationDate":  "2021-12-16T02:44:51.083940Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  9352,
+        "ProcessName":  "SecurityHealthHost.exe",
+        "Path":  "C:\\Windows\\System32\\SecurityHealthHost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\SecurityHealthHost.exe {E041C90B-68BA-42C9-991E-477B73A75C90} -Embedding",
+        "Description":  "SecurityHealthHost.exe",
+        "CreationDate":  "2021-12-16T02:44:51.653012Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  7980,
+        "ProcessName":  "SecurityHealthHost.exe",
+        "Path":  "C:\\Windows\\System32\\SecurityHealthHost.exe",
+        "CommandLine":  "C:\\Windows\\System32\\SecurityHealthHost.exe {6CED0DAA-4CDE-49C9-BA3A-AE163DC3D7AF} -Embedding",
+        "Description":  "SecurityHealthHost.exe",
+        "CreationDate":  "2021-12-16T02:45:34.448446Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  2188,
+        "ProcessId":  8132,
+        "ProcessName":  "WaSecAgentProv.exe",
+        "Path":  "C:\\WindowsAzure\\SecAgent\\WaSecAgentProv.exe",
+        "CommandLine":  "\"C:\\WindowsAzure\\SecAgent\\WaSecAgentProv.exe\" -startPoll C:\\WindowsAzure\\Logs\\ 168.63.129.16 5248000 900000 21600000",
+        "Description":  "WaSecAgentProv.exe",
+        "CreationDate":  "2021-12-16T14:36:41.999403Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  8132,
+        "ProcessId":  3328,
+        "ProcessName":  "conhost.exe",
+        "Path":  "C:\\Windows\\system32\\conhost.exe",
+        "CommandLine":  "\\??\\C:\\Windows\\system32\\conhost.exe 0x4",
+        "Description":  "conhost.exe",
+        "CreationDate":  "2021-12-16T14:36:42.022402Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3556,
+        "ProcessId":  8432,
+        "ProcessName":  "cmd.exe",
+        "Path":  "C:\\Windows\\system32\\cmd.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\cmd.exe\" ",
+        "Description":  "cmd.exe",
+        "CreationDate":  "2021-12-16T15:31:27.357282Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  8432,
+        "ProcessId":  8552,
+        "ProcessName":  "conhost.exe",
+        "Path":  "C:\\Windows\\system32\\conhost.exe",
+        "CommandLine":  "\\??\\C:\\Windows\\system32\\conhost.exe 0x4",
+        "Description":  "conhost.exe",
+        "CreationDate":  "2021-12-16T15:31:27.405425Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  9304,
+        "ProcessName":  "WUDFHost.exe",
+        "Path":  "C:\\Windows\\System32\\WUDFHost.exe",
+        "CommandLine":  "\"C:\\Windows\\System32\\WUDFHost.exe\" -HostGUID:{193a1820-d9ac-4997-8c55-be817523f6aa} -IoEventPortName:\\UMDFCommunicationPorts\\WUDF\\HostProcess-15f9333b-d979-4d6d-a93f-3b7bd54a1418 -SystemEventPortName:\\UMDFCommunicationPorts\\WUDF\\HostProcess-e5f6a576-a79d-432c-a987-7a9d208083d1 -IoCancelEventPortName:\\UMDFCommunicationPorts\\WUDF\\HostProcess-fbb70ee3-dfa4-4811-a7d7-3b8a863e0675 -NonStateChangingEventPortName:\\UMDFCommunicationPorts\\WUDF\\HostProcess-01561bc6-6f09-451b-967b-1a695a8e45a8 -LifetimeId:39fc0e8d-13b4-4f2c-9b73-5fe62cc04d0c -DeviceGroupId: -HostArg:0",
+        "Description":  "WUDFHost.exe",
+        "CreationDate":  "2021-12-16T15:48:47.575587Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  3552,
+        "ProcessName":  "svchost.exe",
+        "Path":  "C:\\Windows\\system32\\svchost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted",
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-16T15:48:48.958502Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  2536,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=90 --mojo-platform-channel-handle=6124 /prefetch:1",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-16T15:55:35.257524Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  9224,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=99 --mojo-platform-channel-handle=948 /prefetch:1",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-16T15:56:27.227902Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  7368,
+        "ProcessName":  "svchost.exe",
+        "Path":  null,
+        "CommandLine":  null,
+        "Description":  "svchost.exe",
+        "CreationDate":  "2021-12-16T16:04:43.642019Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  9624,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=112 --mojo-platform-channel-handle=6808 /prefetch:1",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-16T16:12:14.368274Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  8616,
+        "ProcessName":  "WmiPrvSE.exe",
+        "Path":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+        "CommandLine":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+        "Description":  "WmiPrvSE.exe",
+        "CreationDate":  "2021-12-16T16:13:08.314154Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3732,
+        "ProcessId":  11196,
+        "ProcessName":  "chrome.exe",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CommandLine":  "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\" --type=renderer --display-capture-permissions-policy-allowed --origin-trial-disabled-features=CaptureHandle --field-trial-handle=1636,3017926998271572458,17900819998118196626,131072 --disable-gpu-compositing --lang=en-US --device-scale-factor=1 --num-raster-threads=1 --renderer-client-id=118 --mojo-platform-channel-handle=956 /prefetch:1",
+        "Description":  "chrome.exe",
+        "CreationDate":  "2021-12-16T16:14:07.600424Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  9364,
+        "ProcessName":  "WmiPrvSE.exe",
+        "Path":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+        "CommandLine":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+        "Description":  "WmiPrvSE.exe",
+        "CreationDate":  "2021-12-16T16:15:30.387863Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  7580,
+        "ProcessName":  "WmiPrvSE.exe",
+        "Path":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+        "CommandLine":  "C:\\Windows\\system32\\wbem\\wmiprvse.exe",
+        "Description":  "WmiPrvSE.exe",
+        "CreationDate":  "2021-12-16T16:15:31.906881Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  684,
+        "ProcessId":  1380,
+        "ProcessName":  "TrustedInstaller.exe",
+        "Path":  "C:\\Windows\\servicing\\TrustedInstaller.exe",
+        "CommandLine":  "C:\\Windows\\servicing\\TrustedInstaller.exe",
+        "Description":  "TrustedInstaller.exe",
+        "CreationDate":  "2021-12-16T16:15:31.996386Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  11476,
+        "ProcessName":  "TiWorker.exe",
+        "Path":  "C:\\Windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1371_none_7e1bd7147c8285b0\\TiWorker.exe",
+        "CommandLine":  "C:\\Windows\\winsxs\\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.19041.1371_none_7e1bd7147c8285b0\\TiWorker.exe -Embedding",
+        "Description":  "TiWorker.exe",
+        "CreationDate":  "2021-12-16T16:15:32.036713Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3880,
+        "ProcessId":  10032,
+        "ProcessName":  "SearchProtocolHost.exe",
+        "Path":  "C:\\Windows\\system32\\SearchProtocolHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\SearchProtocolHost.exe\" Global\\UsGthrFltPipeMssGthrPipe54_ Global\\UsGthrCtrlFltPipeMssGthrPipe54 1 -2147483646 \"Software\\Microsoft\\Windows Search\" \"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)\" \"C:\\ProgramData\\Microsoft\\Search\\Data\\Temp\\usgthrsvc\" \"DownLevelDaemon\" ",
+        "Description":  "SearchProtocolHost.exe",
+        "CreationDate":  "2021-12-16T16:15:34.659527Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3880,
+        "ProcessId":  12840,
+        "ProcessName":  "SearchFilterHost.exe",
+        "Path":  "C:\\Windows\\system32\\SearchFilterHost.exe",
+        "CommandLine":  "\"C:\\Windows\\system32\\SearchFilterHost.exe\" 0 808 812 820 8192 816 792 ",
+        "Description":  "SearchFilterHost.exe",
+        "CreationDate":  "2021-12-16T16:15:45.120606Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  2196,
+        "ProcessId":  10672,
+        "ProcessName":  "Sysmon64.exe",
+        "Path":  "C:\\Windows\\sysmon64.exe",
+        "CommandLine":  "\"C:\\Windows\\sysmon64.exe\" -z syscliprpc4388A3D965F03A9D",
+        "Description":  "Sysmon64.exe",
+        "CreationDate":  "2021-12-16T16:15:54.180061Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  816,
+        "ProcessId":  12776,
+        "ProcessName":  "dllhost.exe",
+        "Path":  "C:\\Windows\\system32\\DllHost.exe",
+        "CommandLine":  "C:\\Windows\\system32\\DllHost.exe /Processid:{AB8902B4-09CA-4BB6-B78D-A8F59079A8D5}",
+        "Description":  "dllhost.exe",
+        "CreationDate":  "2021-12-16T16:15:54.705219Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3828,
+        "ProcessId":  13272,
+        "ProcessName":  "keylogger.exe",
+        "Path":  "C:\\Users\\bob\\Desktop\\capattack\\lib\\keylogger.exe",
+        "CommandLine":  "\"C:\\Users\\bob\\Desktop\\capattack\\lib\\keylogger.exe\" ",
+        "Description":  "keylogger.exe",
+        "CreationDate":  "2021-12-16T16:15:54.885938Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  13272,
+        "ProcessId":  13072,
+        "ProcessName":  "keylogger.exe",
+        "Path":  "C:\\Users\\bob\\Desktop\\capattack\\lib\\keylogger.exe",
+        "CommandLine":  "\"C:\\Users\\bob\\Desktop\\capattack\\lib\\keylogger.exe\" ",
+        "Description":  "keylogger.exe",
+        "CreationDate":  "2021-12-16T16:15:55.123066Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3828,
+        "ProcessId":  4336,
+        "ProcessName":  "ffmpeg.exe",
+        "Path":  "C:\\Users\\bob\\Desktop\\capattack\\lib\\ffmpeg.exe",
+        "CommandLine":  "\"C:\\Users\\bob\\Desktop\\capattack\\lib\\ffmpeg.exe\" -y -rtbufsize 100M -f gdigrab -framerate 25 -probesize 10M -draw_mouse 1 -i desktop -c:v libx264 -vf \"pad=ceil(iw/2)*2:ceil(ih/2)*2\" -preset veryfast -tune zerolatency -crf 21 -pix_fmt yuv420p capattack_session.mkv ",
+        "Description":  "ffmpeg.exe",
+        "CreationDate":  "2021-12-16T16:15:55.395612Z",
+        "User":  null
+    },
+    {
+        "ParentProcessId":  3828,
+        "ProcessId":  12876,
+        "ProcessName":  "tshark.exe",
+        "Path":  "C:\\Program Files\\Wireshark\\tshark.exe",
+        "CommandLine":  "\"C:\\Program Files\\Wireshark\\tshark.exe\" -i Ethernet -f \"not host 71.179.15.157\" -F pcapng -w \"C:\\Users\\bob\\Desktop\\capattack\\capattack_session.pcapng\" ",
+        "Description":  "tshark.exe",
+        "CreationDate":  "2021-12-16T16:15:56.309259Z",
+        "User":  null
+    }
+]

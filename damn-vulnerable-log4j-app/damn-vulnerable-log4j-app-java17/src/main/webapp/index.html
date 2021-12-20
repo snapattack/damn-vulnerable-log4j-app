@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Damn Vulnerable Log4j App</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1>Damn Vulnerable Log4j App</h1>
+        
+        <p>There are three vulnerable API endpoints that you can test with:</p>
+        
+        <ul>
+            <li><a href="api/vulnerable/user">api/vulnerable/user</a> logs the 'User-Agent' HTTP header</li>
+            <li><a href="api/vulnerable/get?x=string">api/vulnerable/get?x=string</a> logs the 'x' GET variable</li>
+            <li><a href="api/vulnerable/post">api/vulnerable/post</a> logs any www-form-urlencoded POST data</li>
+        </ul>
+    </body>
+</html>
